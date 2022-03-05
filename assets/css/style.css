@@ -1,5 +1,7 @@
 /*fuentes*/
-
+body{
+    background-color: red;
+}
 @font-face {
     font-family: 'Poppins-Medium';
     src: url('../fonts/Poppins/Poppins-Medium.ttf');
